@@ -1,1 +1,7 @@
-{"name":"weather-app","author":"itsAsanali","language":"html","license":"none","encoding":"UTF-8"}
+{
+    "name": "weather-app",
+    "author": "asanaIi",
+    "language": "html",
+    "license": "none",
+    "encoding": "UTF-8"
+}
